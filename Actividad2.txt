@@ -1,1 +1,3 @@
-Esto es algo simple para realizar mi actividad 
+Esto es algo simple para realizar mi actividad git push
+
+algo mas fácil aun para la practica de git 
