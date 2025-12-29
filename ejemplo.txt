@@ -1,0 +1,1 @@
+Este es una practica propia utilizando git, para recordar y familiarizarme con los comando 
